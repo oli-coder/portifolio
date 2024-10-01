@@ -42,8 +42,8 @@ main {
 
 .modalImageDesktop {
   position: relative;
-  width: 1008px;
-  height: 586px;
+/*   width: 1008px;
+  height: 586px; */
   overflow: hidden;
   border-radius: 15px; /* Smooth corners */
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Soft shadow for depth */
