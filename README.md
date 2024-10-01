@@ -1,4 +1,4 @@
-﻿![](https://img.shields.io/badge/Microverse-blueviolet)
+
 
 # My Portfolio
 
@@ -7,7 +7,7 @@
 ![screenshot](./screenshot.png)
 
 ## Demo link
-[Click Here](https://mwapsam.github.io/portifolio/)
+[Click Here](https://oli-coder.github.io/portifolio/)
 
 Additional description about the project and its features.
 
@@ -32,10 +32,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-git clone https://github.com/Mwapsam/portifolio.git
+git clone https://github.com/oli-coder/portifolio.git
 
-cd portfolio
 
-### Install
-
-npm init -y
