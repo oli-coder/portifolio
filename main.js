@@ -71,7 +71,7 @@ const projects = [
   
   {
     name: 'Hance Cyber Security',
-    details: ['Cyber', 'Machine Learning Dev', '2023'],
+    details: ['Cyber', 'Front End Dev', '2023'],
     smallDescription:
       'Designed a modern and responsive landing page for CyberGuard, a cybersecurity company focused on providing robust security solutions. The landing page showcases their services, client testimonials, and key features to attract potential clients.',
     bigDescription:
